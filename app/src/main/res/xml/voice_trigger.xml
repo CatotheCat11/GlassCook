@@ -1,3 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trigger keyword="FIND_A_RECIPE" >
-</trigger>
+<trigger command="FIND_A_RECIPE" />
